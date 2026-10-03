@@ -1,5 +1,5 @@
 # Blood Bank Management System
-![developer](https://img.shields.io/badge/Developed%20By%20Madhurima-red)
+![developer](https://img.shields.io/badge/Developer-madhurima-success)
 
 An end-to-end Django application that helps organisations digitise their blood bank processes. It centralises donor, patient, inventory, and request management so administrators can keep stock levels accurate and respond to demand quickly.
 
